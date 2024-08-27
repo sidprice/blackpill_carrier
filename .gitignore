@@ -1,7 +1,7 @@
 *.zip
 *.pdf
 gerbers/jlcpcb_0815_2024/*
-
+pcbway_production/*
 bom/ibom.html
 
 ~blackpill_carrier.kicad_sch.lck
