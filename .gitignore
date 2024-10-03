@@ -7,3 +7,11 @@ bom/ibom.html
 ~blackpill_carrier.kicad_sch.lck
 
 \#auto_saved_files#
+
+production/
+
+gerbers/JLCPCB_V1.1/
+
+bom/
+
+images/
